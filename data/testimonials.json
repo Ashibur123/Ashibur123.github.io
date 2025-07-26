@@ -1,0 +1,28 @@
+{
+  "testimonials": [
+    {
+      "name": "Manik Sanyal",
+      "position": "Senior Manager & AVP, City Bank PLC",
+      "image": "/images/testimonial1.jpg",
+      "text": "Ashibur has been instrumental in implementing automation testing at City Bank. His technical expertise and dedication have significantly improved our testing efficiency and software quality."
+    },
+    {
+      "name": "Dr. Touhid Bhuiyan",
+      "position": "Professor & Head, Dept. of C.S.E., Daffodil International University",
+      "image": "/images/testimonial2.jpg",
+      "text": "As his professor, I've always been impressed by Ashibur's analytical skills and problem-solving abilities. He has always demonstrated exceptional academic performance and practical application of knowledge."
+    },
+    {
+      "name": "John Doe",
+      "position": "Project Manager, Gain Solutions",
+      "image": "/images/testimonial3.jpg",
+      "text": "Working with Ashibur was a pleasure. His attention to detail and commitment to quality made him an invaluable asset to our team. His automation frameworks significantly reduced our testing time."
+    },
+    {
+      "name": "Jane Smith",
+      "position": "CTO, Cycas IT",
+      "image": "/images/testimonial4.jpg",
+      "text": "Ashibur's contributions to our testing processes and methodologies have been remarkable. His technical acumen and leadership skills helped elevate our entire QA department."
+    }
+  ]
+}

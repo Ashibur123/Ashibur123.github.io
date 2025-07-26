@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "name": "Testing",
+      "skills": [
+        {
+          "name": "Manual Testing",
+          "level": 95,
+          "icon": "FaBug"
+        },
+        {
+          "name": "Cypress",
+          "level": 90,
+          "icon": "SiCypress"
+        },
+        {
+          "name": "Selenium",
+          "level": 85,
+          "icon": "SiSelenium"
+        },
+        {
+          "name": "Playwright",
+          "level": 80,
+          "icon": "SiPlaywright"
+        },
+        {
+          "name": "API Testing",
+          "level": 90,
+          "icon": "FaNetworkWired"
+        },
+        {
+          "name": "DB Testing",
+          "level": 85,
+          "icon": "FaDatabase"
+        }
+      ]
+    },
+    {
+      "name": "Project Management",
+      "skills": [
+        {
+          "name": "JIRA",
+          "level": 90,
+          "icon": "SiJira"
+        },
+        {
+          "name": "Git",
+          "level": 85,
+          "icon": "FaGitAlt"
+        },
+        {
+          "name": "Agile/Scrum",
+          "level": 90,
+          "icon": "FaUsers"
+        },
+        {
+          "name": "SDLC",
+          "level": 95,
+          "icon": "FaCogs"
+        },
+        {
+          "name": "Documentation",
+          "level": 85,
+          "icon": "FaFileAlt"
+        }
+      ]
+    },
+    {
+      "name": "Development",
+      "skills": [
+        {
+          "name": "HTML",
+          "level": 80,
+          "icon": "FaHtml5"
+        },
+        {
+          "name": "CSS",
+          "level": 75,
+          "icon": "FaCss3Alt"
+        },
+        {
+          "name": "JavaScript",
+          "level": 70,
+          "icon": "FaJs"
+        },
+        {
+          "name": "TypeScript",
+          "level": 70,
+          "icon": "SiTypescript"
+        },
+        {
+          "name": "Java",
+          "level": 65,
+          "icon": "FaJava"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "skills": [
+        {
+          "name": "Adobe Photoshop",
+          "level": 75,
+          "icon": "SiAdobephotoshop"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "level": 70,
+          "icon": "SiAdobeillustrator"
+        },
+        {
+          "name": "Adobe XD",
+          "level": 80,
+          "icon": "SiAdobexd"
+        }
+      ]
+    }
+  ]
+}
